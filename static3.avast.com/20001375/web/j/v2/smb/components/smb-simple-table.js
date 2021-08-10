@@ -1,0 +1,2 @@
+!function(){"use strict";var a=avm.require("cash");a(".js-smb-tables-showMore").on("click",function(b){b.preventDefault();var c=a(this),d=a(".js-smb-tables"),e=d.find(".js-smb-tables-hidden");c.hide(),e.addClass("is-active")})}();
+//# sourceMappingURL=smb-simple-table.js.map

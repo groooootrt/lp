@@ -1,0 +1,2 @@
+!function(){"use strict";var a=avm.require("cash"),b=function(a){window[a]=tns({container:"."+a,controlsContainer:"."+a+"-controls",controlsPosition:"bottom",preventScrollOnTouch:"force",controls:!1,navPosition:"bottom",nav:!0,mouseDrag:!0,speed:400,loop:!1,fixedWidth:280,slideBy:1,responsive:{992:{controls:!0},1280:{fixedWidth:316}}})};a(".carousel-slider .article-items").each(function(){var c=a(this).attr("class").split(/\s+/),d=c[1];b(d)})}();
+//# sourceMappingURL=cmp-articles.js.map

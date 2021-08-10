@@ -1,0 +1,2 @@
+var slider=tns({container:".blogspots-slider-items",controlsContainer:".blogspots-slider-controls",controlsPosition:"bottom",preventScrollOnTouch:"auto",controls:!1,navPosition:"bottom",nav:!0,mouseDrag:!0,speed:400,loop:!1,fixedWidth:276,slideBy:1,responsive:{992:{mouseDrag:!1,controls:!0},1280:{fixedWidth:316,nav:!1}}});
+//# sourceMappingURL=cmp-blogposts.js.map

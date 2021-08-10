@@ -1,0 +1,2 @@
+!function(){"use strict";avm.require("cash"),tns({container:".sliderAccessibilityStories",controlsContainer:".sliderAccessibilityStories-controls",preventScrollOnTouch:"force",controlsPosition:"bottom",controls:!1,navPosition:"bottom",mouseDrag:!0,speed:400,fixedWidth:344,center:!0,responsive:{768:{fixedWidth:532},992:{controls:!0,fixedWidth:644},1280:{fixedWidth:816},1366:{fixedWidth:864},1600:{fixedWidth:928}}})}();
+//# sourceMappingURL=accessibility.js.map

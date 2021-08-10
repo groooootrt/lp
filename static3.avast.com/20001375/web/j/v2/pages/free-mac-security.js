@@ -1,0 +1,2 @@
+!function(){"use strict";var a=avm.require("cash"),b=a(".js-open"),c=a(".js-close");b.on("click",function(){a(this).parents("section").next("section").addClass("show"),a(this).addClass("hidden")}),c.on("click",function(){var b=a(this).parents("section");b.prev("section").find(".js-open").removeClass("hidden"),b.removeClass("show")})}();
+//# sourceMappingURL=free-mac-security.js.map

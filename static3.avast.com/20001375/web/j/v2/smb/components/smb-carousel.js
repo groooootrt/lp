@@ -1,0 +1,2 @@
+var slider=tns({container:".smb-carousel__items",items:1,center:!0,mouseDrag:!0,loop:!0,swipeAngle:!1,speed:400,controlsContainer:".smb-carousel-controls",controls:!0,controlsPosition:"bottom",nav:!0,navPosition:"bottom",responsive:{300:{},768:{},992:{}}});
+//# sourceMappingURL=smb-carousel.js.map

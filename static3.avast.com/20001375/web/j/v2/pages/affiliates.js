@@ -1,0 +1,2 @@
+!function(){"use strict";var a=avm.require("cash"),b=a(".question");a(document).ready(function(){b.on("click",function(){var b=a(this).find("span");"none"===b.css("transform")?b.css("transform","rotateX(180deg)"):b.css("transform","none")})})}();
+//# sourceMappingURL=affiliates.js.map

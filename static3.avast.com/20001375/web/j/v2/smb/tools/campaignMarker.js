@@ -1,0 +1,2 @@
+!function(){"use strict";var a,b=avm.require("avast.storage.cookieStorage"),c=window.location.href,d=JSON.parse(document.getElementById("smb-cm-channel-map").dataset.cmMap);(a=function(a,b){return Object.keys(a).filter(function(c){return a[c].every(function(a){return b.indexOf(a)>-1})}).join("-")}(d,c))&&a.length>0&&b.setItem("__smbChannelSrc",a,function(a){var b=new Date;return b.setTime(b.getTime()+60*a*1e3),b.toUTCString()}(30),"/",location.hostname,!1)}();
+//# sourceMappingURL=campaignMarker.js.map

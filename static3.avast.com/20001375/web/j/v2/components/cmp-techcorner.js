@@ -1,0 +1,2 @@
+!function(){"use strict";var a=avm.require("cash"),b=a(".js-techcorner-toggler"),c=a(".js-techcorner"),d=a(".js-techcorner-header");b.on("click",function(b){var e=a(this).closest(c),f=e.children(".js-techcorner-header").first();b.preventDefault(),d.removeAttr("tabIndex"),e.hasClass("expanded")?e.removeClass("expanded").attr("aria-expanded","false"):(e.addClass("expanded").attr("aria-expanded","true"),f.attr("tabIndex",-1).trigger("focus"))})}();
+//# sourceMappingURL=cmp-techcorner.js.map

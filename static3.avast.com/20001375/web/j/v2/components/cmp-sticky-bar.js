@@ -1,0 +1,2 @@
+!function(){"use strict";var a=avm.require("cash"),b=avm.require("avast.web.platformSwitcher"),c=a(window),d=a(".sticky-bar a"),e=avm.require("avast.web.waypoints");b.init(),d.attr("tabindex",-1),c.on("resize scroll",function(){e(a(".sticky-waypoint"),null,null,!0)?(a(".sticky-bar").addClass("is-sticky"),d.attr("tabindex",0)):(a(".sticky-bar").removeClass("is-sticky"),d.attr("tabindex",-1))})}();
+//# sourceMappingURL=cmp-sticky-bar.js.map

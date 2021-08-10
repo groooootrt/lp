@@ -1,0 +1,53 @@
+#top {
+  margin-bottom: 50px;
+}
+#guidelines {
+  text-align: left!important;
+}
+#guidelines table {
+  border-width: 1px 1px 1px 1px;
+  text-align: left;
+  margin-bottom: 20px;
+}
+#guidelines table th {
+  border-color: #D3D4DE;
+  border-style: solid;
+  border-width: 1px 1px 1px 1px;
+  padding: 10px;
+}
+#guidelines table td {
+  padding: 10px;
+  vertical-align: top;
+}
+#guidelines ol li {
+  font-weight: 700;
+}
+.no-pc {
+  display: none;
+}
+.no-mobile {
+  display: block;
+}
+@media only screen and (max-width: 821px) {
+  .no-mobile {
+    display: none;
+  }
+  .no-pc {
+    display: block;
+  }
+  #guidelines .AVsizer {
+    text-align: left!important;
+  }
+  #guidelines table {
+    border-width: 0;
+  }
+  #guidelines table tr {
+    border: 1px solid #D3D4DE;
+  }
+  #guidelines table tr td {
+    border: 0;
+  }
+  #guidelines table tr th {
+    border: 0;
+  }
+}

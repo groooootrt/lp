@@ -1,0 +1,2 @@
+var sliderInfFeatSecMed=tns({container:".slider-sliderInfFeatSecMed",controlsContainer:".slider-sliderInfFeatSecMed-controls",controlsPosition:"bottom",controls:!1,navPosition:"bottom",mouseDrag:!0,speed:400,fixedWidth:288,gutter:32,responsive:{576:{center:!0},768:{items:2,slideBy:2,controls:!0,center:!1},1280:{fixedWidth:384},1366:{fixedWidth:412},1600:{fixedWidth:432}}});
+//# sourceMappingURL=lp-all-business.js.map

@@ -1,0 +1,2 @@
+!function(){"use strict";var a=avm.require("jquery"),b=(a(document),a("body"),a(".js-more"),a(".js-close"),a(".js-video"),avm.require("avast.url.unserialize")()),c=(b.video,avm.require("avast.web.platformSwitcher")),d=(avm.require("avast.web.overlayPopup"),b.actionbox,avm.require("avast.detect"));d();c.init()}();
+//# sourceMappingURL=lp-complete-protection.js.map

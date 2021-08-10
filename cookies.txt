@@ -1,0 +1,23 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+avast.com	TRUE	/	FALSE	1999999999	AKA_A2	A
+rlcdn.com	TRUE	/	FALSE	1999999999	rlas3	BFm/AelnWTEFGk4VVw7/Y/gV7LSn+uOdEmX8TX8AY6c=
+rlcdn.com	TRUE	/	FALSE	1999999999	pxrc	CO//yogGEgUI6AcQABIGCO/rARAA
+idsync.rlcdn.com	TRUE	/	FALSE	1999999999	SameSite	None
+.spiceworks.com	TRUE	/	FALSE	1999999999	visid_incap_1145931	5Id9NeCXSTSGHtj2WMkd/fS/EmEAAAAAQUIPAAAAAAD18ScsZdF7gjjGHOzd2bx3
+.spiceworks.com	TRUE	/	FALSE	1999999999	incap_ses_1169_1145931	zPNFKETdGR2cdvA2tx85EPS/EmEAAAAAGSS4zeU1NESvk3n8p9Kg1A==
+.bing.com	TRUE	/	FALSE	1999999999	MUID	3DE63FFABD8D618E1B462F75BCA460AB
+bat.bing.com	TRUE	/	FALSE	1999999999	MR	0
+bat.bing.com	TRUE	/	FALSE	1999999999	SameSite	None
+.google.com	TRUE	/	FALSE	1999999999	NID	221=xWME1XYwm-3AAdLTGgScN6uFPpIafvBtYTGPMrwIONAicWw8lk57wFV-Ar2qk2IT00gIANMFEuyIs7SSeLiyTTWj69DYxYndutkRQs3YKxmDWwd5UuPP9YHQjnjf5hSJLuzsRKG_WPrqCFrAk7vTnUz_5ZW6rgZSn4F5aaPRtIs
+.krxd.net	TRUE	/	FALSE	1999999999	_kuid_	OSwsEmaO
+.w55c.net	TRUE	/	FALSE	1999999999	wfivefivec	p3oVix2C1Mdw9o5
+pm.w55c.net	TRUE	/	FALSE	1999999999	SameSite	None
+eu35.salesforce.com	TRUE	/	FALSE	1999999999	CookieConsentPolicy	0:0
+partners.avast.com	TRUE	/	FALSE	1999999999	sfdc-stream	!4VygbGjBR9WLk0bnzrWqhTFrBqjsE75PgJy6ACV2POrSDpdCLhuwHqxo8yHG49x3RCjcdv4zDC2N9ew=
+.press.avast.com	TRUE	/	FALSE	1999999999	__cfruid	bf444b1ae214918134bce26bafe74d9fe141c27e-1628618839
+press.avast.com	TRUE	/	FALSE	1999999999	SameSite	None
+.tribalfusion.com	TRUE	/	FALSE	1999999999	ANON_ID	aXnpA4OZb3VnUEjUAvMyfB8rHYxQyUv5mpA64YZa0slj095lvIZaIIl
+s.tribalfusion.com	TRUE	/	FALSE	1999999999	SameSite	None
+.tribalfusion.com	TRUE	/	FALSE	1999999999	ANON_ID_old	aXnpA4OZb3VnUEjUAvMyfB8rHYxQyUv5mpA64YZa0slj095lvIZaIIl
+

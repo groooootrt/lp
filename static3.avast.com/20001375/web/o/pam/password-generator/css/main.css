@@ -1,0 +1,19 @@
+@font-face {
+  font-family: ProximaNovaRegular;
+  src: url("https://static3.avast.com/20001375/web/o/pam/password-generator/fonts/proximanova-regular.ttf") format("truetype"),
+    url("https://static3.avast.com/20001375/web/o/pam/password-generator/fonts/proximanova-regular.eot") format("embedded-opentype");
+  font-style: normal;
+  font-weight: 400;
+}
+@font-face {
+  font-family: ProximaNovaSemiBold;
+  src: url("https://static3.avast.com/20001375/web/o/pam/password-generator/fonts/proximanova-semibold.otf");
+  font-style: normal;
+  font-weight: 700;
+}
+@font-face {
+  font-family: OverpassMono;
+  src: url("https://static3.avast.com/20001375/web/o/pam/password-generator/fonts/overpassmono-regular.ttf");
+  font-style: normal;
+  font-weight: 400;
+}

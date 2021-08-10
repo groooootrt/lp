@@ -1,0 +1,2 @@
+!function(){"use strict";var a=avm.require("avast.detect");a().browser.isFirefox?$("body").addClass("detect-firefox"):a().browser.isChrome?$("body").addClass("detect-chrome"):a().browser.isEdge?$("body").addClass("detect-edge"):a().browser.isOpera?$("body").addClass("detect-opera"):$("body").addClass("detect-other")}();
+//# sourceMappingURL=for-windows-v2.js.map

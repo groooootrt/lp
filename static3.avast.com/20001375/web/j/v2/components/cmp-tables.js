@@ -1,0 +1,2 @@
+!function(){"use strict";var a=avm.require("cash");a(".js-tables-showMore").on("click",function(b){b.preventDefault();var c=a(this),d=c.closest(".js-tables"),e=d.find(".js-tables-hidden");c.hide(),e.addClass("is-active")})}();
+//# sourceMappingURL=cmp-tables.js.map

@@ -1,0 +1,2 @@
+!function(){"use strict";avm.require("cash"),tns({container:".sliderOurStories",controlsContainer:".sliderOurStories-controls",preventScrollOnTouch:"force",controlsPosition:"bottom",controls:!1,navPosition:"bottom",autoplay:!0,autoplayButtonOutput:!1,autoplayTimeout:8e3,mouseDrag:!0,speed:400,fixedWidth:344,center:!0,responsive:{768:{fixedWidth:532},992:{controls:!0,fixedWidth:644},1280:{fixedWidth:816},1366:{fixedWidth:864},1600:{fixedWidth:928}}})}();
+//# sourceMappingURL=diversity.js.map
